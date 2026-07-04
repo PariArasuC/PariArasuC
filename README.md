@@ -44,7 +44,7 @@ Second-year CSE student • Aspiring Software Engineer • Building my way to Go
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PariArasuC&show_icons=true&theme=default" alt="Pari's GitHub stats" />
+  <img src="[https://github-readme-stats.vercel.app/api?username=PariArasuC&show_icons=true&theme=default](https://github-readme-stats-anuraghazra.vercel.app/api?username=PariArasuC&show_icons=true&theme=default)" alt="Pari's GitHub stats" />
 </p>
 
 ---
