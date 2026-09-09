@@ -22,11 +22,10 @@ Second-year CSE student • Aspiring Software Engineer • Building my way to Go
 
 ---
 
-### 🔭 What I'm Working On
+### 📁 Featured Projects
 
-- Building out a **DSA Sorting Visualizer** as a portfolio project
-- Following a structured multi-year roadmap covering DSA, projects, and internship prep
-- Targeting 200+ LeetCode problems and polished GitHub projects by the end of Year 2
+- **[Sungreen Pte Ltd — Company Website](https://sungreenconstructions.com)** — Responsive business website for a Singapore-based construction company, built with React, TypeScript & Vite, deployed via Cloudflare Pages
+- **[DSA Sorting Visualizer](PASTE_YOUR_GITHUB_PAGES_LINK_HERE)** — Interactive visualizer for 6 sorting algorithms with color-coded animation and Big-O complexity breakdowns
 
 ---
 
@@ -36,6 +35,9 @@ Second-year CSE student • Aspiring Software Engineer • Building my way to Go
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white">
 </p>
 
@@ -44,12 +46,11 @@ Second-year CSE student • Aspiring Software Engineer • Building my way to Go
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=PariArasuC&show_icons=true&theme=default](https://github-readme-stats-anuraghazra.vercel.app/api?username=PariArasuC&show_icons=true&theme=default)" alt="Pari's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PariArasuC&show_icons=true&theme=default" alt="Pari's GitHub stats" />
 </p>
 
 ---
 
-### 📫 Reach Me
+### 📫 Open to
 
-- 📧 pariarasu.c@gmail.com
-- 💼 [LinkedIn](https://linkedin.com/in/pariarasu)
+Internship opportunities and freelance web development projects — feel free to reach out via LinkedIn or email above.
